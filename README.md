@@ -36,15 +36,17 @@ O Move-it é um timer que utiliza a técnica de [pomodoro](https://pt.wikipedia.
 <br>
 
 <p align="center">
-  <a href="https://www.figma.com/file/n9J6604nMGB7Cgt2vEVtWb/Move.it-1.0-Dark-Mode">
-    <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23blue.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <a href="https://www.figma.com/file/Pa5QFpFTNXQp5nwBZQn9H5/Move.it-1.0-(Copy)?node-id=160%3A2761">
+    <img alt="Figma" src="https://img.shields.io/badge/figma%20-%blue.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
   </a>
 </p>
 
 <br>
 
+## Acessa a aplicação
+
 <p align="center">
-  <img src=".github/cover.png" alt="Página inicial">
+ <img width="200px" src="https://github.com/coaugusto/moveit/blob/main/public/favicon.png" alt="Página inicial">
 </p>
 
 ## Tecnologias
