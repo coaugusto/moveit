@@ -3,23 +3,23 @@
 </div>
 
 <div align="center">
-  <h1> 🚀 Next Level Week 4! </h1>
+  <h1> #NLW - Next Level Week #4! </h1>
 </div>
-# Projeto Move.it
+
 
 <p>
-  <img src="https://img.shields.io/badge/made%20by-CARLOS%20AUGUSTO-6E40C9?style=flat-square">
+  <img src="https://img.shields.io/blue/Create%20by-CARLOS%20AUGUSTO-6E40C9?style=flat-square">
   
   <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
+    <img alt="License" src="https://img.shields.io/blue/license-MIT-6E40C9?style=flat-square">
   </a>  
 </p>
 
-<img align="right" src=".github/icon.svg" width="35%" alt="Move.it">
+
 
 ## Tópicos 
 
-[Sobre o Move.it](#sobre-o-move.it)
+[Sobre](#sobre-o-move.it)
 
 [Tecnologias](#tecnologias)
 
@@ -37,7 +37,7 @@ O Move-it é um timer que utiliza a técnica de [pomodoro](https://pt.wikipedia.
 
 <p align="center">
   <a href="https://www.figma.com/file/n9J6604nMGB7Cgt2vEVtWb/Move.it-1.0-Dark-Mode">
-    <img alt="Figma" src="https://img.shields.io/badge/figma%20-%236E40C9.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+    <img alt="Figma" src="https://img.shields.io/blue/figma%20-%236E40C9.svg?&style=for-the-blue&logo=figma&logoColor=white"/>
   </a>
 </p>
 
@@ -55,8 +55,6 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com/)
-- [VS Code](https://code.visualstudio.com/) com [ESLint](https://eslint.org/), [Prettier](https://prettier.io/) e [EditorConfig](https://editorconfig.org/)
-
 <br>
 
 ## Instalação e uso
@@ -81,7 +79,7 @@ $ yarn start
 
 ## Licença
 <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
+    <img alt="License" src="https://img.shields.io/blue/license-MIT-6E40C9?style=flat-square">
 </a>
 
 <br>
@@ -92,6 +90,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 Create by [Carlos Augusto](https://github.com/coaugusto)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Augusto-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-augusto-ab758121/)](https://www.linkedin.com/in/carlos-augusto-ab758121/) 
+[![Linkedin Blue](https://img.shields.io/blue/-Carlos%20Augusto-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-augusto-ab758121/)](https://www.linkedin.com/in/carlos-augusto-ab758121/) 
 
-[![Gmail Badge](https://img.shields.io/badge/-coaugusto@gmail.com-6E40C9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coaugusto@gmail.com)](mailto:coaugusto@gmail.com)
+[![Gmail Blue](https://img.shields.io/blue/-coaugusto@gmail.com-6E40C9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coaugusto@gmail.com)](mailto:coaugusto@gmail.com)
