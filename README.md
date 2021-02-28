@@ -46,7 +46,7 @@ O Move-it é um timer que utiliza a técnica de [pomodoro](https://pt.wikipedia.
 ## Acessa a aplicação
 
 <p align="center">
- <img width="200px" src="https://github.com/coaugusto/moveit/blob/main/public/favicon.png" alt="Página inicial">
+ <img width="80px" src="https://github.com/coaugusto/moveit/blob/main/public/favicon.png" alt="Página inicial">
 </p>
 
 ## Tecnologias
@@ -59,24 +59,6 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 - [Styled Components](https://styled-components.com/)
 <br>
 
-## Instalação e uso
-
-```bash
-# Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/martins-rafael/moveIt.git
-# ou use a opção de download.
-
-# Entre na pasta web com 
-$ cd moveIt
-
-# Instale as dependências
-$ yarn install
-
-# Rode o aplicação
-$ yarn start
-```
-
-<br>
 
 
 ## Licença
@@ -86,7 +68,7 @@ $ yarn start
 
 <br>
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+Licença MIT [LICENSE](/LICENSE) para mais detalhes.
 
 ---
 
