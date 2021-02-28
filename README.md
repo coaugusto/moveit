@@ -1,3 +1,10 @@
+<div align="center">
+<img width="400px" src="https://github.com/coaugusto/moveit/blob/main/public/logo-full.svg"/>
+</div>
+
+<div align="center">
+  <h1> 🚀 Next Level Week 4! </h1>
+</div>
 # Projeto Move.it
 
 <p>
