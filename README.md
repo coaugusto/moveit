@@ -30,13 +30,12 @@
 <br>
 
 ## Sobre
+O Move-it é um timer que utiliza a técnica de [pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro), Criado pela [Rocketseat](https://rocketseat.com.br/). no NLW #4 (Next Level Week).
 
 - [x] Timer para concentração.
 - [x] Desafios gerados cada timer concluido.
 - [x] Pontuação por cumprimento de meta.
 - [x] Calssificação de level para objetivos concluidos.
-
-O Move-it é um timer que utiliza a técnica de [pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro), Criado pela [Rocketseat](https://rocketseat.com.br/). no NLW #4 (Next Level Week).
 
 <br>
 
